@@ -55,7 +55,7 @@ mag,place,time,depth,Month,Category,Area Name
 4.8,"Hokkaido, Japan Region",2025-05-31 11:37:05.800,39.0,5,Weak,Hokkaido
 4.6,"Southeast of Honshu, Japan",2025-05-31 11:28:50.500,427.0,5,Weak,Honshu
 6.0,"Hokkaido, Japan Region",2025-05-31 08:37:19.300,32.0,5,Medium,Hokkaido
-4.5,Southeast of Ryukyu Islands,2025-05-30 18:14:35.700,10.0,5,Weak,Southeast
+4.5,Southeast of Ryukyu Islands,2025-05-30 18:14:35.700,10.0,5,Weak,Ryukyu Islands
 4.3,"Southeast of Shikoku, Japan",2025-05-30 15:01:57.600,410.0,5,Weak,Shikoku
 4.6,"Hokkaido, Japan Region",2025-05-27 12:23:48.500,27.0,5,Weak,Hokkaido
 4.8,"Hokkaido, Japan Region",2025-05-26 14:30:40.700,28.0,5,Weak,Hokkaido
@@ -78,9 +78,9 @@ mag,place,time,depth,Month,Category,Area Name
 4.7,"Ryukyu Islands, Japan",2025-05-10 11:45:16.900,87.0,5,Weak,Ryukyu Islands
 4.7,"Hokkaido, Japan Region",2025-05-09 03:24:05.000,38.0,5,Weak,Hokkaido
 4.7,"Kyushu, Japan",2025-05-07 10:50:40.300,10.0,5,Weak,Kyushu
-4.7,Southeast of Ryukyu Islands,2025-05-07 02:15:26.400,31.0,5,Weak,Southeast
+4.7,Southeast of Ryukyu Islands,2025-05-07 02:15:26.400,31.0,5,Weak,Ryukyu Islands
 4.4,"Near East Coast of Honshu, Japan",2025-05-06 09:22:11.900,63.0,5,Weak,Honshu
-4.2,Eastern Sea of Japan,2025-05-06 04:03:53.800,241.0,5,Weak,Eastern Sea
+4.2,Eastern Sea of Japan,2025-05-06 04:03:53.800,241.0,5,Weak,Japan
 4.7,"Off East Coast of Honshu, Japan",2025-05-04 21:14:46.900,10.0,5,Weak,Honshu
 4.8,"Near East Coast of Honshu, Japan",2025-05-04 16:34:48.500,10.0,5,Weak,Honshu
 5.2,"Southeast of Honshu, Japan",2025-05-04 03:48:21.600,29.0,5,Medium,Honshu
